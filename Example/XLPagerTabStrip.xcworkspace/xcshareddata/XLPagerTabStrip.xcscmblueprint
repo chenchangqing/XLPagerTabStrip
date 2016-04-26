@@ -1,0 +1,24 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "4c1b59d9-de63-944c-af18-2d8dd1221f62++2625" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "4c1b59d9-de63-944c-af18-2d8dd1221f62++2625" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "563BE700-1711-45D5-BD5D-304AF3BFD76B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "4c1b59d9-de63-944c-af18-2d8dd1221f62++2625" : "..\/..\/.."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "XLPagerTabStrip",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Example\/XLPagerTabStrip.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/192.168.0.60\/utovr",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4c1b59d9-de63-944c-af18-2d8dd1221f62++2625"
+    }
+  ]
+}

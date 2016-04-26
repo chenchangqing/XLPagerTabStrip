@@ -1,0 +1,13 @@
+use_frameworks!
+
+target 'XLPagerTabStrip_Example', :exclusive => true do
+  
+  pod 'XLPagerTabStrip', '~> 4.0.1'
+end
+
+target 'XLPagerTabStrip_Tests', :exclusive => true do
+    
+    pod 'XLPagerTabStrip', '~> 4.0.1'
+
+  
+end
